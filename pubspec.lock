@@ -280,7 +280,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "1827003674bd52b79db41181bc10d6ac7ea86729"
+      resolved-ref: "1f9cbe29af28a42c4279e099e8f575c6c354c11b"
       url: "https://github.com/blendto/flutter-quick-actions-ios"
     source: git
     version: "1.0.8"
@@ -289,7 +289,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "176c3041e4d568e30da0fa25a6a5266074b07c3c"
+      resolved-ref: "55756afdfe2296ab3835b08f7e401be28cce0641"
       url: "https://github.com/blendto/flutter-quick-actions-platform-interface"
     source: git
     version: "1.0.5"
